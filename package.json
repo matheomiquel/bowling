@@ -1,0 +1,14 @@
+{
+  "name": "technical-interview",
+  "version": "1.0.0",
+  "description": "a bowling score calculator to do in peer programming",
+  "main": "bowling.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest spec.mjs"
+  },
+  "author": "Pierre Chabardes",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.2.2"
+  }
+}
